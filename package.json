@@ -1,0 +1,23 @@
+{
+  "name": "fric-server",
+  "version": "0.0.1",
+  "description": "The server portion of fric",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pseudoramble/fric-server.git"
+  },
+  "author": "Doug Swain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pseudoramble/fric-server/issues"
+  },
+  "homepage": "https://github.com/pseudoramble/fric-server#readme",
+  "devDependencies": {
+    "express": "^4.13.3",
+    "passport": "^0.3.2"
+  }
+}
